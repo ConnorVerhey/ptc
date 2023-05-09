@@ -8,21 +8,53 @@
  */
 export const questions = [
     {
-        question: "This is the first question.",
+        question: "What was the first micro-computer called?",
         answers: [
-            "True",
-            "False"
+            "Apple 8800",
+            "Altair 8800",
+            "MacOS"
+            
         ],
-        correct: 0,
+        correct: 2,
         time: 20
     },
     {
-        question: "Who made this question?",
+        question: "Who co-founded Apple with Steve Jobs?",
         answers: [
-            "Ben Thomas",
-            "Mr. Bonner",
-            "Sam Mote",
-            "Camryn Verhey"
+            "Larry Page",
+            "Xerox",
+            "Steve Wozniak",
+            "Bill Gates"
+        ],
+        correct: 3,
+        time: 20
+    },
+    {
+        question: "What number system is comprised of just 0s and 1s?",
+        answers: [
+            "Base 10",
+            "Base 1",
+            "Base 2"
+        ],
+        correct: 2,
+        time: 20
+    },
+    {
+        question: "Who created the original verson of MacOS?",
+        answers: [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates"
+        ],
+        correct: 3,
+        time: 20
+    },
+    {
+        question: "____ is a free online service that can be used to quicky convert videos, images, or other files to another format. ?",
+        answers: [
+            "Cloud Convert",
+            "McAfee",
+            "FileConverterPro"
         ],
         correct: 1,
         time: 20
@@ -30,11 +62,11 @@ export const questions = [
     {
         question: "How much time is left in this class?",
         answers: [
-            "So much",
-            "A respectable amount",
-            "Not enough"
+            "",
+            "",
+            ""
         ],
-        correct: 2,
+        correct: ,
         time: 20
     }
 ]
