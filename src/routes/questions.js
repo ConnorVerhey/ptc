@@ -15,7 +15,7 @@ export const questions = [
             "MacOS"
             
         ],
-        correct: 2,
+        correct: 1,
         time: 20
     },
     {
@@ -26,7 +26,7 @@ export const questions = [
             "Steve Wozniak",
             "Bill Gates"
         ],
-        correct: 3,
+        correct: 2,
         time: 20
     },
     {
@@ -36,7 +36,7 @@ export const questions = [
             "Base 1",
             "Base 2"
         ],
-        correct: 2,
+        correct: 1,
         time: 20
     },
     {
@@ -46,7 +46,7 @@ export const questions = [
             "Larry Page",
             "Bill Gates"
         ],
-        correct: 3,
+        correct: 0,
         time: 20
     },
     {
@@ -56,7 +56,7 @@ export const questions = [
             "McAfee",
             "FileConverterPro"
         ],
-        correct: 1,
+        correct: 0,
         time: 20
     },
     {
@@ -66,7 +66,7 @@ export const questions = [
             "",
             ""
         ],
-        correct: ,
+        correct: 0,
         time: 20
     }
 ]
