@@ -36,7 +36,7 @@ export const questions = [
             "Base 1",
             "Base 2"
         ],
-        correct: 1,
+        correct: 2,
         time: 20
     },
     {
@@ -60,13 +60,55 @@ export const questions = [
         time: 20
     },
     {
-        question: "How much time is left in this class?",
+        question: "What is ASCll standard used for?",
         answers: [
-            "",
-            "",
-            ""
+            "Normalize the size of RAM and CPU chips across PCs",
+            "Allow the computer to run faster",
+            "Convert between binary data and human-readable characters"
         ],
-        correct: 0,
+        correct: 2,
+        time: 20
+    },
+    {
+        question: "What was the original meaning of the term Computer?",
+        answers: [
+            "An old form of a mechanical calculator",
+            "A person who did computations professionally",
+            "None of the above"
+        ],
+        correct: 1,
+        time: 20
+    },
+    {
+        question: "What is ASCll standard used for?",
+        answers: [
+            "Normalize the size of RAM and CPU chips across PCs",
+            "Allow the computer to run faster",
+            "Convert between binary data and human-readable characters"
+        ],
+        correct: 2,
+        time: 20
+    },
+    {
+        question: "What was the first thing we covered in this class?",
+        answers: [
+            "Hardware",
+            "Photo editing",
+            "Software",
+            "The history of the first micro-computer"
+        ],
+        correct: 3,
+        time: 20
+    },
+    {
+        question: "which one is the closing tag?",
+        answers: [
+            "<p>",
+            "</p>"
+            
+        ],
+        correct: 1,
         time: 20
     }
+    
 ]
